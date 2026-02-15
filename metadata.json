@@ -1,0 +1,8 @@
+{
+  "name": "Hayat",
+  "description": "Hayat is an advanced AI-driven healthcare management system for Moroccan hospitals. It leverages machine learning to optimize emergency triage, predict patient flow, and enhance resource allocation, ensuring 'Life' (Hayat) is prioritized through data-driven decisions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
